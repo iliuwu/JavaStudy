@@ -5,5 +5,6 @@
 	<classpathentry kind="src" path="javase"/>
 	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar"/>
 	<classpathentry kind="lib" path="lib/mina-core-2.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14-10.2.0.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
